@@ -107,3 +107,11 @@ Os valores lidos são comparados aos limites ideais definidos no programa. Sempr
 Quando todos os sensores apresentam valores adequados, o display informa "STATUS: IDEAL" e o LED verde permanece aceso.
 
 O buzzer é ativado quando há incidência excessiva de luz dentro da embalagem, enquanto os LEDs indicam visualmente a situação geral do sistema. Todas as leituras também são registradas no Monitor Serial, permitindo acompanhamento em tempo real do funcionamento da NORA.
+
+
+## INTEGRANTES:
+Turma ESPJ:
+* Amanda  Oliveira Lourenço - RM: 572572
+* Giovanna Lopes Scalzone - RM: 572285
+* Nayra Sousa Duarte - RM: 573815
+* Paloma do Carmo Dantas - RM: 569995
