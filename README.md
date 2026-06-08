@@ -1,4 +1,4 @@
-# NORA – Nutrient Optimization and Retention Architecture
+# NORA – Nutrição Orbital Resistente Ativa
 
 ## Descrição do Projeto
 
