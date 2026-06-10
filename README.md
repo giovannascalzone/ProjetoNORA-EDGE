@@ -108,6 +108,9 @@ Quando todos os sensores apresentam valores adequados, o display informa "STATUS
 
 O buzzer é ativado quando há incidência excessiva de luz dentro da embalagem, enquanto os LEDs indicam visualmente a situação geral do sistema. Todas as leituras também são registradas no Monitor Serial, permitindo acompanhamento em tempo real do funcionamento da NORA.
 
+## Vídeo explicativo: 
+
+[Clique para acessar o vídeo](https://youtu.be/bFLBvRItZCs)
 
 ## INTEGRANTES:
 Turma ESPJ:
